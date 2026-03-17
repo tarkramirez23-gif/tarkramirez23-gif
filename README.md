@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tarkramirez23@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- :notebook: Me gusta siempre estar actualizado con las nuevas tendencias.
 
 <br>
 
