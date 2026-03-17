@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy THEYLOR RAMIREZ </h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Me apasiona la Ciberseguridad, Redes y Desarrollo web🌟.</h3>
 
 <br>
 
