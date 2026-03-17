@@ -15,7 +15,7 @@
 
 - :computer: Soy un apasionado por la Ciberseguridad, Redes y Full Stack
 
-- 📫 How to reach me **tarkramirez23@gmail.com**
+- 📫 Contactame por: **tarkramirez23@gmail.com**
 
 - :notebook: Me gusta siempre estar actualizado con las nuevas Tendencias.
 
