@@ -23,7 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/theylor-ram%C3%ADrez-4799112a6/" target="blank">
+  <a href="https://www.linkedin.com/in/
+theylor-ramirez-vasquez-4799112a6
+/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/theylor_ramirez/" target="blank">
