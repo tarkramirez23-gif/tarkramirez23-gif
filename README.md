@@ -46,7 +46,7 @@ theylor-ramirez-vasquez-4799112a6
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,androidstudio,docker,postgres,prisma,kotlin,dynamodb,flutter,figma,firebase,unity,github,html,java,js,linux,eclipse,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,sqlite />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,androidstudio,docker,postgres,prisma,kotlin,dynamodb,flutter,figma,firebase,unity,github,html,java,js,linux,eclipse,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,sqlite, kubernetes&perline=14"/>
   </a>
 </p>
 
