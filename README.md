@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, Soy THEYLOR RAMIREZ </h1>
+<h1 align="center">Hola , Soy THEYLOR RAMIREZ </h1>
 <h3 align="center">Apasionado por la Ciberseguridad, Redes y El Desarrollo web :pushpin:.</h3>
 
 <br>
@@ -17,7 +17,7 @@
 
 - 📫 Contactact: **tarkramirez23@gmail.com**
 
-- :notebook: Me gusta siempre estar actualizado con las nuevas Tendencias.
+- :notebook: Me gusta siempre estar actualizado con las nuevas tendencias y aprendisaje continuo.
 
 <br>
 
