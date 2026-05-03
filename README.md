@@ -21,7 +21,7 @@
 
 <br>
 
-<h3 align="left">Mis redes sociales:</h3>
+<h3 align="left">Mis Redes sociales:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/
 theylor-ramirez-vasquez-4799112a6
