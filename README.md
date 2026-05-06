@@ -17,7 +17,7 @@
 
 - 📫 Contactact: **tarkramirez23@gmail.com**
 
-- :notebook: Me gusta siempre estar actualizado con las nuevas tendencias y aprendisaje continuo.
+- :notebook: Me gusta siempre estar actualizado con las nuevas tendencias y aprendizaje continuo.
 
 <br>
 
