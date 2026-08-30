@@ -38,7 +38,7 @@ theylor-ramirez-vasquez-4799112a6
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies and programming languages That I Know.👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias y lenguajes de programación que conosco.👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
