@@ -13,7 +13,7 @@
 
 - :computer: Soy un apasionado por la Ciberseguridad y Redes.
 
-- 📫 Contactacto: **tarkramirez23@gmail.com**
+- 📫 Contacto: **tarkramirez23@gmail.com**
 
 - :notebook: Me gusta siempre estar actualizado con las nuevas tendencias y aprendizaje continuo.
 
