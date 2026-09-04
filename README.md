@@ -15,8 +15,6 @@
 
 <br>
 
-# Hola, soy Theylor Ramírez Vásquez 🎯
-
 ## Sobre mí
 
 Estudiante de Ingeniería de Sistemas, enfocado en **Purple Team**: hacking ofensivo
