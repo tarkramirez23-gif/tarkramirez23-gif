@@ -1,6 +1,5 @@
 
 <h1 align="center">Hola , Soy THEYLOR RAMIREZ. </h1>
-<h3 align="center">Apasionado por la Ciberseguridad y Redes :pushpin:.</h3>
 
 <br>
 
