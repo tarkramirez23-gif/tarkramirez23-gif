@@ -67,7 +67,6 @@ theylor-ramirez-vasquez-4799112a6
   </a>
 </p>
 
-<br>
 
 
 
