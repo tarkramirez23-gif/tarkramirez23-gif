@@ -44,7 +44,7 @@ Construyendo un roadmap de proyectos de seguridad | Camino a eJPT
 
 > main_fields
 
-Pentesting | Seguridad ofensiva y defensiva | Desarrollo Full Stack | Redes
+Pentesting | Seguridad ofensiva y defensiva | Redes
 
 > mindset
 
