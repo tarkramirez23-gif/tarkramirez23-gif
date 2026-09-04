@@ -15,13 +15,46 @@
 
 <br>
 
-- :computer: Soy un apasionado por la Ciberseguridad y Redes.
+# Hola, soy Theylor Ramírez Vásquez 🎯
 
-- 📫 Contacto: **tarkramirez23@gmail.com**
+## Sobre mí
 
-- :notebook: Me gusta siempre estar actualizado con las nuevas tendencias y aprendizaje continuo.
+Estudiante de Ingeniería de Sistemas, enfocado en **Purple Team**: hacking ofensivo
+y defensivo, con interés en pentesting y desarrollo full stack.
 
-<br>
+- 🎯 **Enfoque principal:** Pentesting, Purple Team, seguridad ofensiva/defensiva
+- 📚 **Actualmente en:** camino a la certificación eJPT (TryHackMe / HackTheBox)
+- 🛠️ **Construyendo:** una serie de herramientas de seguridad (port scanner,
+  auditor de contraseñas, analizador de headers HTTP, buscador de subdominios,
+  detector de phishing, honeypot)
+- 💻 **Stack full-stack:** desarrollo web, móvil y backend
+- 📫 **Contacto:** tarkramirez23@gmail.com | [LinkedIn](https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/)
+
+---
+
+## 🛡️ Enfoque en ciberseguridad
+
+> whoami
+
+Estudiante de Ingeniería de Sistemas | Purple Team en formación
+
+> current_status
+
+Construyendo un roadmap de proyectos de seguridad | Camino a eJPT
+
+> main_fields
+
+Pentesting | Seguridad ofensiva y defensiva | Desarrollo Full Stack | Redes
+
+> mindset
+
+🧠 "Construir, romper, entender, asegurar."
+
+---
+
+## Tecnologías
+
+![Skills](https://skillicons.dev/icons?i=git,aws,cpp,css,flutter,docker,postgres,prisma,androidstudio,dynamodb,idea,figma,kotlin,github,html,java,js,linux,sqlite,ubuntu,unity,mongodb,gradle,windows,mysql,nextjs,nodejs,ps,php,cs,arduino,visualstudio,vscode,bootstrap,angular,kubernetes)
 
 <h3 align="left">Mis Redes sociales:</h3>
 <p align="left">
