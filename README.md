@@ -10,6 +10,10 @@
 
 </div>
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
+
+<img align="right" height="270px" alt="Cybersecurity GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
