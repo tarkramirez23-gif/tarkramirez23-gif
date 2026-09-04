@@ -16,9 +16,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
 - :computer: Soy un apasionado por la Ciberseguridad y Redes.
 
 - 📫 Contacto: **tarkramirez23@gmail.com**
