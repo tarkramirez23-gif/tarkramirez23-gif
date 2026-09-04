@@ -15,8 +15,6 @@
 
 <br>
 
-## Sobre mí
-
 Estudiante de Ingeniería de Sistemas, enfocado en **Purple Team**: hacking ofensivo
 y defensivo, con interés en pentesting y desarrollo full stack.
 
