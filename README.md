@@ -68,31 +68,6 @@ theylor-ramirez-vasquez-4799112a6
 </p>
 
 <br>
-## Tecnologías y herramientas
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Hashcat](https://img.shields.io/badge/Hashcat-00FF00?style=for-the-badge&logo=hashcat&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias y lenguajes de programación que conosco.👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,flutter,dart,docker,postgres,prisma,androidstudio,dynamodb,idea,figma,eclipse,kotlin,github,html,java,js,linux,sqlite,ubuntu,unity,mongodb,gradle,windows,mysql,nextjs,nodejs,postman,py,php,cs,arduino,visualstudio,vscode,bootstrap,angular,kubernetes&perline=14" />
-  </a>
-</p>
 
 
 
