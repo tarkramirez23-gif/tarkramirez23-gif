@@ -27,7 +27,7 @@ y defensivo, con interés en pentesting y desarrollo full stack.
 - 🛠️ **Construyendo:** una serie de herramientas de seguridad (port scanner,
   auditor de contraseñas, analizador de headers HTTP, buscador de subdominios,
   detector de phishing, honeypot)
-- 💻 **Stack full-stack:** desarrollo web, móvil y backend
+- 💻 **Full-stack:** desarrollo web, móvil y backend
 - 📫 **Contacto:** tarkramirez23@gmail.com | [LinkedIn](https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/)
 
 ---
